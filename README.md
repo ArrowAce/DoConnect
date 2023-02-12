@@ -1,2 +1,21 @@
 # DoConnect
-Q n A website
+
+DoConnect is a popular Q and A form in which techniques questions were asked and answered. 
+There are 2 users in this application:
+1. User
+2. Admin
+
+## User Stories:
+1. As a user, I should be able to login, log out and register into the application.
+2. As a User, I should be able to ask any question under any topic
+3. As a User, I should be able to search the question on any string written in search box
+4. As a User, I should be able to answer any question asked
+5. As a User, I should be able to answer more that one question and more than one time
+6. As a User, I should be able to chat with other users
+7. As a User, I should be able to upload images to refer
+
+## Owner Stories:
+1. As an Admin, I should be able to log in, logout, and register into the application
+2. As an admin, I should be able to get mail as soon as any new question is asked or any answer is given
+3. As an admin, I should be able to approve the question and answer. Any question or answer will be visible on platform only if it is approved
+4. As an admin, I should be able to delete inappropriate Questions or Answers.
